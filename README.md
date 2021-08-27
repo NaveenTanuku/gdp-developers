@@ -56,7 +56,7 @@ Client Team 6
 * AA
 * AD
 * SS
-* NT
+* Naveen Tanuku
 
 Client Team 7
 
